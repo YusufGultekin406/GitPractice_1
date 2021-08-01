@@ -4,6 +4,7 @@ public class Movie {
 
     // the bro came in and watched the movie until 20 mins
 
-    // ay yo different stuff in mater
+    //added some more functionality
+    //like another commit bro
 
 }
