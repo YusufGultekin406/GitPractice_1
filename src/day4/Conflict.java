@@ -6,6 +6,10 @@ public class Conflict {
 
 // final version
 
+    //CUSTOM FROM MERGE
+
     //BIG CONFLICT
+
+    //work on collection 2
 
 }
