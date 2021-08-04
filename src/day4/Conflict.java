@@ -6,4 +6,6 @@ public class Conflict {
 
 // final version
 
+    //BIG CONFLICT
+
 }
